@@ -4,6 +4,7 @@ import 'package:file_manager/file_manager_2.dart';
 import 'package:flutter/material.dart';
 
 void main() async {
+  //check git
   runApp(AppLifeCycleManager(child: MaterialApp(home: MyApp())));
 
   // getDeviceInfo().then((deviceInfo) {
